@@ -1,6 +1,6 @@
 # 👩‍💻Ester Santos
 
-**`Desenvolderoda Back-End`**
+**`Desenvolvedora Back-End`**
 
 <p align="left">Me chamo Ester Santos, tenho 22 anos e sou de Belo Horizonte, Minas Gerais, nascida e criada por aqui. Sempre fui apaixonada por tecnologia e atualmente estou fazendo um curso técnico em Análise e Desenvolvimento de Sistemas, onde estou no segundo semestre. Trabalho principalmente com desenvolvimento back-end, mas também atuo no front-end quando necessário.<br><br>No back-end, minhas principais linguagens e tecnologias utilizadas são Python, PHP, JSON e MySQL.<br>No front-end, trabalho com HTML, CSS e JavaScript.</p>
 
